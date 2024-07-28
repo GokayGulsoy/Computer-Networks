@@ -16,7 +16,9 @@
 12. Data Link Layer
 13. Data Link Layer
 14. Data Link Layer
-    
-Textbooks can be found on: [Course textbooks 1](/Textbook1)
 
-Textbooks can be found on: [Course textbook 2](/Textbook2)
+For the second homework, captured packets are not provided. 
+If you want to do the homework from scratch please contact 
+me via `gokaygulsoy144@gmail.com` so that I can provide it.
+    
+Textbooks can be found on: [Course textbook](/Textbook/textbook.pdf)
